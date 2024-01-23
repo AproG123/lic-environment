@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Sun Oct 10 01:14:57 2021
+Created on Sat Oct  9 19:15:12 2021
 
-@author: nikolayosadchiy
+@author: AproG123 & N1chey
 """
 
 from keras.preprocessing.image import ImageDataGenerator
